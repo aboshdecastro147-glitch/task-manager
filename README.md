@@ -1,12 +1,10 @@
 Project Code: WST21-PM-2026-SF
-
 Student Name: De Castro, Jorge Michael 
-
 Course & Year: BSIT-2
-
-Database Used: MySQL & XAMPP
+Database Used: MySQL
 
 Features:
+
 - Add Task
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e7296171-241d-48b9-ad85-f43d372de736" />
 
